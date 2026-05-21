@@ -1,0 +1,61 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background-color:#f5e6d3;
+}
+
+/* Navbar */
+header{
+    background-color:brown;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+}
+
+/* About Section */
+.about{
+    text-align:center;
+    padding:40px;
+}
+
+.about h1{
+    color:brown;
+}
+
+.about p{
+    width:70%;
+    margin:auto;
+    line-height:30px;
+    padding:10px;
+}
+
+.about img{
+    width:300px;
+    margin-top:20px;
+}
+
+/* Specialities */
+.special{
+    text-align:center;
+    padding:40px;
+}
+
+.box{
+    background-color:white;
+    margin:20px auto;
+    width:60%;
+    padding:20px;
+}
+
+/* Footer */
+footer{
+    background-color:brown;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
